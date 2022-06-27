@@ -13,3 +13,15 @@ Sorting movies using ETL
 
 
 ## Extract and Transform the Wikipedia Data
+### DataFrame look like:
+![Wiki 2](https://user-images.githubusercontent.com/98991575/175840258-8c5df253-edd4-466c-9ac9-e3d52cea809e.png)
+
+### DataFrame to a list:
+![wiki 2_2](https://user-images.githubusercontent.com/98991575/175840262-5f831985-68b1-4c0f-ae67-c4c7bd451a8f.png)
+
+
+## Extract and Transform the Kaggle Data
+
+### DataFrame look like:
+
+### DataFrame looks like:
