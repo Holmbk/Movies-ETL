@@ -29,3 +29,4 @@ Sorting movies using ETL
 ![movie 3_2](https://user-images.githubusercontent.com/98991575/175840707-1828441f-3206-45f8-9f96-96b1e2fb4962.png)
 
 ## Create the Movie Database
+![del 4](https://user-images.githubusercontent.com/98991575/175842702-258ddbdb-befa-452a-a717-8ddaae8c2e55.png)
