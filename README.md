@@ -27,3 +27,5 @@ Sorting movies using ETL
 
 ### DataFrame looks like:
 ![movie 3_2](https://user-images.githubusercontent.com/98991575/175840707-1828441f-3206-45f8-9f96-96b1e2fb4962.png)
+
+## Create the Movie Database
