@@ -23,5 +23,7 @@ Sorting movies using ETL
 ## Extract and Transform the Kaggle Data
 
 ### DataFrame look like:
+![Movie list](https://user-images.githubusercontent.com/98991575/175840615-904453bd-655b-4bd3-bd0e-5620677be4be.png)
 
 ### DataFrame looks like:
+![movie 3_2](https://user-images.githubusercontent.com/98991575/175840707-1828441f-3206-45f8-9f96-96b1e2fb4962.png)
